@@ -1,0 +1,170 @@
+[
+  {
+    "nome": "CodeWithHarry",
+    "url": "https://www.youtube.com/c/CodeWithHarry",
+    "titulo": "Aprenda programação de forma simples e rápida!",
+    "descricao": "Canal de tutoriais de programação com foco em Python, JavaScript, e mais.",
+    "inscritos": 1200000,
+    "data_criacao": "2015-04-10",
+    "tags": ["Python", "JavaScript", "Iniciante", "Web", "Desenvolvimento"],
+    "videos_populares": [
+      {
+        "titulo_video": "Curso Completo de Python para Iniciantes",
+        "url_video": "https://www.youtube.com/watch?v=abc123",
+        "views": 2500000
+      },
+      {
+        "titulo_video": "Desenvolvendo uma API com Flask",
+        "url_video": "https://www.youtube.com/watch?v=def456",
+        "views": 1500000
+      }
+    ],
+    "redes_sociais": {
+      "instagram": "https://www.instagram.com/codewithharry",
+      "twitter": "https://twitter.com/codewithharry",
+      "github": "https://github.com/codewithharry"
+    },
+    "frequencia_postagem": "Semanal",
+    "imagem": "https://link-para-imagem-do-canal-1.jpg"
+  },
+  {
+    "nome": "Filipe Deschamps",
+    "url": "https://www.youtube.com/c/FilipeDeschamps",
+    "titulo": "Conteúdo sobre desenvolvimento e carreira na área de tecnologia.",
+    "descricao": "Focado em Java, carreira em TI, e dicas sobre entrevistas e habilidades.",
+    "inscritos": 800000,
+    "data_criacao": "2014-03-25",
+    "tags": ["Java", "Carreira", "Desenvolvimento Back-end", "Entrevistas", "Técnicas de Programação"],
+    "videos_populares": [
+      {
+        "titulo_video": "Como passar em entrevistas de TI",
+        "url_video": "https://www.youtube.com/watch?v=xyz789",
+        "views": 1200000
+      },
+      {
+        "titulo_video": "Desenvolvimento Back-end com Java",
+        "url_video": "https://www.youtube.com/watch?v=lmno123",
+        "views": 1000000
+      }
+    ],
+    "redes_sociais": {
+      "instagram": "https://www.instagram.com/filipe_deschamps",
+      "twitter": "https://twitter.com/filipe_deschamps",
+      "github": "https://github.com/filipe-deschamps"
+    },
+    "frequencia_postagem": "Mensal",
+    "imagem": "https://link-para-imagem-do-canal-2.jpg"
+  },
+  {
+    "nome": "Programação Dinâmica",
+    "url": "https://www.youtube.com/c/ProgramacaoDinamica",
+    "titulo": "Cursos de programação para iniciantes e avançados.",
+    "descricao": "Canal que oferece uma variedade de cursos práticos sobre desenvolvimento web, mobile e frameworks.",
+    "inscritos": 550000,
+    "data_criacao": "2017-02-18",
+    "tags": ["HTML", "CSS", "JavaScript", "React", "Node.js", "Desenvolvimento Full-stack"],
+    "videos_populares": [
+      {
+        "titulo_video": "Curso de React para Iniciantes",
+        "url_video": "https://www.youtube.com/watch?v=uvw456",
+        "views": 800000
+      },
+      {
+        "titulo_video": "Desenvolvendo com Node.js",
+        "url_video": "https://www.youtube.com/watch?v=opq789",
+        "views": 600000
+      }
+    ],
+    "redes_sociais": {
+      "instagram": "https://www.instagram.com/programacaodinamica",
+      "twitter": "https://twitter.com/programacaodin",
+      "github": "https://github.com/programacao-dinamica"
+    },
+    "frequencia_postagem": "Semanal",
+    "imagem": "https://link-para-imagem-do-canal-3.jpg"
+  },
+  {
+    "nome": "Rafael Winterhalter",
+    "url": "https://www.youtube.com/c/RafaelWinterhalter",
+    "titulo": "Aprenda a programar com dicas de desenvolvimento profissional.",
+    "descricao": "Focado em programação de software, arquitetura de sistemas e boas práticas de desenvolvimento.",
+    "inscritos": 400000,
+    "data_criacao": "2018-09-05",
+    "tags": ["C#", "Arquitetura de Software", "Boas Práticas", "Desenvolvimento Ágil", "Refatoração"],
+    "videos_populares": [
+      {
+        "titulo_video": "Refatorando código em C#",
+        "url_video": "https://www.youtube.com/watch?v=rst012",
+        "views": 350000
+      },
+      {
+        "titulo_video": "Arquitetura de Microserviços",
+        "url_video": "https://www.youtube.com/watch?v=stu345",
+        "views": 270000
+      }
+    ],
+    "redes_sociais": {
+      "instagram": "https://www.instagram.com/rafael_winterhalter",
+      "twitter": "https://twitter.com/rafaelwinterhal",
+      "github": "https://github.com/rafael-winterhalter"
+    },
+    "frequencia_postagem": "Quinzenal",
+    "imagem": "https://link-para-imagem-do-canal-4.jpg"
+  },
+  {
+    "nome": "DevDojo",
+    "url": "https://www.youtube.com/c/DevDojo",
+    "titulo": "Dicas sobre desenvolvimento web e frameworks.",
+    "descricao": "Canal dedicado ao desenvolvimento de software com foco em JavaScript, Node.js, e React.",
+    "inscritos": 350000,
+    "data_criacao": "2019-11-22",
+    "tags": ["JavaScript", "React", "Node.js", "Web", "Back-end", "Front-end"],
+    "videos_populares": [
+      {
+        "titulo_video": "React para Iniciantes",
+        "url_video": "https://www.youtube.com/watch?v=ghj456",
+        "views": 500000
+      },
+      {
+        "titulo_video": "API com Node.js e Express",
+        "url_video": "https://www.youtube.com/watch?v=ijk123",
+        "views": 450000
+      }
+    ],
+    "redes_sociais": {
+      "instagram": "https://www.instagram.com/devdojo",
+      "twitter": "https://twitter.com/devdojo",
+      "github": "https://github.com/devdojo"
+    },
+    "frequencia_postagem": "Semanal",
+    "imagem": "https://link-para-imagem-do-canal-5.jpg"
+  },
+  {
+    "nome": "Balta.io",
+    "url": "https://www.youtube.com/c/Baltaio",
+    "titulo": "Conteúdos sobre desenvolvimento com .NET, C# e arquitetura.",
+    "descricao": "Focado em desenvolvimento com .NET Core, C#, arquitetura de software e Cloud.",
+    "inscritos": 300000,
+    "data_criacao": "2016-08-10",
+    "tags": [".NET", "C#", "Cloud", "Arquitetura de Software", "Microserviços"],
+    "videos_populares": [
+      {
+        "titulo_video": "Arquitetura de Microserviços com .NET Core",
+        "url_video": "https://www.youtube.com/watch?v=klm987",
+        "views": 350000
+      },
+      {
+        "titulo_video": "Introdução ao .NET 6",
+        "url_video": "https://www.youtube.com/watch?v=nop654",
+        "views": 280000
+      }
+    ],
+    "redes_sociais": {
+      "instagram": "https://www.instagram.com/balta_io",
+      "twitter": "https://twitter.com/baltaio",
+      "github": "https://github.com/balta-io"
+    },
+    "frequencia_postagem": "Mensal",
+    "imagem": "https://link-para-imagem-do-canal-6.jpg"
+  }
+]
