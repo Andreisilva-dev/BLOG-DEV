@@ -166,5 +166,59 @@
     },
     "frequencia_postagem": "Mensal",
     "imagem": "https://link-para-imagem-do-canal-6.jpg"
-  }
+  },{
+  "nome": "Lucas Montano",
+  "url": "https://www.youtube.com/c/LucasMontano",
+  "titulo": "Tecnologia, programação e carreira com autenticidade.",
+  "descricao": "Dicas sobre desenvolvimento, mercado de trabalho e experiências pessoais na área tech.",
+  "inscritos": 600000,
+  "data_criacao": "2016-06-15",
+  "tags": ["Carreira", "Programação", "Mercado", "Web", "Mobile"],
+  "videos_populares": [
+    {
+      "titulo_video": "Como conseguir seu primeiro emprego como dev",
+      "url_video": "https://www.youtube.com/watch?v=lucas1",
+      "views": 900000
+    },
+    {
+      "titulo_video": "Desenvolvimento Mobile com Flutter",
+      "url_video": "https://www.youtube.com/watch?v=lucas2",
+      "views": 700000
+    }
+  ],
+  "redes_sociais": {
+    "instagram": "https://www.instagram.com/lucasmontano",
+    "twitter": "https://twitter.com/lucasmontano",
+    "github": "https://github.com/lucasmontano"
+  },
+  "frequencia_postagem": "Semanal",
+  "imagem": "https://yt3.googleusercontent.com/ytc/AGIKgqM8JhQ1_LucasMontanoChannel=s176-c-k-c0x00ffffff-no-rj"
+},{
+  "nome": "The Net Ninja",
+  "url": "https://www.youtube.com/c/TheNetNinja",
+  "titulo": "Tutoriais modernos para web developers de todos os níveis.",
+  "descricao": "Aprenda tecnologias como React, Node.js, Vue e Firebase com séries bem estruturadas.",
+  "inscritos": 2000000,
+  "data_criacao": "2015-05-02",
+  "tags": ["React", "Vue", "Firebase", "Node.js", "Full-stack"],
+  "videos_populares": [
+    {
+      "titulo_video": "Curso Completo de React para Iniciantes",
+      "url_video": "https://www.youtube.com/watch?v=netninja1",
+      "views": 3000000
+    },
+    {
+      "titulo_video": "Autenticação com Firebase",
+      "url_video": "https://www.youtube.com/watch?v=netninja2",
+      "views": 1800000
+    }
+  ],
+  "redes_sociais": {
+    "instagram": "https://www.instagram.com/thenetninjauk",
+    "twitter": "https://twitter.com/thenetninjauk",
+    "github": "https://github.com/iamshaunjp"
+  },
+  "frequencia_postagem": "Semanal",
+  "imagem": "https://yt3.googleusercontent.com/ytc/AGIKgqM9xNetNinjaChannel=s176-c-k-c0x00ffffff-no-rj"
+}
 ]
