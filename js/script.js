@@ -1,5 +1,6 @@
 // Selecionando o elemento DOM onde os cards serão inseridos
 let cards = document.querySelector(".cards");
+let seach = document.querySelector('.seach');
 
 fetch("dados.JSON")
   .then((response) => response.json())
@@ -14,7 +15,7 @@ fetch("dados.JSON")
       // Criando a tag de categoria
       let tag = document.createElement("p");
       card.appendChild(tag);
-      tag.textContent = canal.tags.join(", "); // Unindo as tags em uma string separada por vírgulas
+      tag.textContent = canal.tags.join(", "); 
       tag.classList.add("tag");
 
       // Criando o título do canal
@@ -33,15 +34,15 @@ fetch("dados.JSON")
       linkNomeCanal.textContent = canal.nome;
       linkNomeCanal.href = canal.url;
       linkNomeCanal.classList.add("links");
-      linkNomeCanal.target = "_blank"; // Definindo que o link abre em uma nova aba
+      linkNomeCanal.target = "_blank"; 
 
       // Criando o link para a data de criação do canal
       let linkDataCriacao = document.createElement("a");
       container_links.appendChild(linkDataCriacao);
       linkDataCriacao.textContent = `Criado em: ${canal.data_criacao}`;
-      linkDataCriacao.href = "#"; // Pode adicionar um link relevante aqui
+      linkDataCriacao.href = "#"; 
       linkDataCriacao.classList.add("data_criacao");
 
-      // Você pode continuar criando outros elementos com base nas propriedades de 'canal', como redes sociais, vídeos populares, etc.
+      
     });
   });
