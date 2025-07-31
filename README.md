@@ -20,5 +20,6 @@ Facilitar o acesso a bons conteúdos de programação e ajudar na jornada de apr
 - Fetch API para requisições
 
 ## 🟩 imagem
-![Uploading image.png…]()
+<img width="872" height="595" alt="tela" src="https://github.com/user-attachments/assets/818061bd-90de-4e28-af6a-12e5f8526e16" />
+
 
